@@ -9,7 +9,8 @@ import cookieParser from 'cookie-parser';
 
 app.use(express.json());
 app.use(cors({
-    origin: ["http://localhost:5173"],
+    origin: ["http://deploy-mern=1whq.vercel.app"],
+    methods: ["POST", "GET"],
     credentials: true
 }));
 app.use(cookieParser());
