@@ -14,7 +14,7 @@ Create a `.env` file in the root directory and add the following variables:
 The server will run on http://localhost:3000 by default. Adjust the `PORT` variable in the `.env` file if needed.
 
 
-4. **Start the Server:**
+4. **Start the Server: with npm start**
 
 ## Functionality
 
