@@ -1,5 +1,20 @@
+# Express Server for User Authentication
 
+This Express.js server provides user authentication functionalities using JWT, bcrypt for password hashing, forgotten password feature, and form validation.
+
+## Setup
+
+1. **Clone the Repository:**
+
+2. **Install Dependencies:**
+
+
+3. **Environment Variables:**
+Create a `.env` file in the root directory and add the following variables:
 The server will run on http://localhost:3000 by default. Adjust the `PORT` variable in the `.env` file if needed.
+
+
+4. **Start the Server:**
 
 ## Functionality
 
